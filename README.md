@@ -1,7 +1,7 @@
-# Basic_Image_Processing_with_Python_Tkinter
+# Basic_Image_Processing_with_Python_Tkinter 
 ### Perform Edge Detection, Hough Transforms, Low and High Pass Filtering on Images with Tkinter Package
-
-### GUI
+### Update: Added Entry Parameters Text Boxes 
+### GUI 
 <img src="git1/1.png" width= "400" height="400">
 
 ### Select files from the explorer
